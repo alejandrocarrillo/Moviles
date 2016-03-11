@@ -1,0 +1,50 @@
+[
+	{
+    "id": 1,
+    "name": "Guillermo",
+    "hobby": "Coding",
+  	"age": "20",
+    "phone": "3322511231",
+    "address": "Santa Rosa #33, col. Chapalita"
+  },
+  {
+    "id": 2,
+    "name": "Karina",
+    "hobby": "Go to the movies",
+  	"age": "25",
+    "phone": "3340456123",
+    "address": "Alemania #145, col. Europa"
+  },
+  {
+    "id": 3,
+    "name": "Jose Luis",
+    "hobby": "Play guitar",
+  	"age": "19",
+    "phone": "6621786786",
+    "address": "Nido de dios #66, col. La Paloma"
+  },
+  {
+    "id": 4,
+    "name": "Fernanda",
+    "hobby": "Go to the club",
+  	"age": "21",
+    "phone": "3322901632",
+    "address": "Azucenas #12, col. Flores"
+  },
+  {
+    "id": 5,
+    "name": "Alexis",
+    "hobby": "Painting",
+  	"age": "20",
+    "phone": "3322390174",
+    "address": "Los robles #289, col. Bosque la Primavera"
+  },
+  {
+    "id": 6,
+    "name": "Teresa",
+    "hobby": "Read",
+  	"age": "23",
+    "phone": "3321478390",
+    "address": "Napoles #80, col. Virreyes"
+  }
+]
